@@ -1,0 +1,56 @@
+body {
+    background-color: #efefef;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    margin: auto;
+    
+}
+
+.contact {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    text-align: center;
+}
+
+
+.contact-box {
+    background-color: rgb(78, 76, 83);
+    padding: 32px;
+    margin: 32px auto;
+    width: 700px;
+    border-radius: 8px;
+    color: rgb(248, 241, 255);
+    
+    
+}
+
+.input-field {
+    
+    width: 400px;
+    height: 50px;
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-right: px;
+    border: 1px solid #777;
+    border-radius: 10px;
+    outline: invert; 
+    font-size: medium;
+}
+
+.abc {
+    font-size: large;
+}
+
+.btn {
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #47c35a;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    position: unset;
+
+    }
